@@ -1,6 +1,6 @@
 # EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND
 
-DATE :19-04-2023
+DATE :17-04-2023
 
 # AIM :
 To write the python program for simulating Traceroute command.
